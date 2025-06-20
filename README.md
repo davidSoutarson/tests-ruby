@@ -1,3 +1,12 @@
+# 🧠 Exercices Ruby - Basés sur le projet *learn_ruby*
+
+> 📚 **Projet personnel d’apprentissage – réutilisation dans le cadre de ma formation THP**
+
+Ce dépôt contient une série de **petits exercices Ruby** basés sur le projet [alexch/learn_ruby](https://github.com/alexch/learn_ruby).  
+Je m’en suis **servi comme support pédagogique** pour m’initier à la programmation Ruby durant ma formation intensive chez **The Hacking Project (THP)**.
+
+Le projet d’origine utilise la méthodologie **Test-Driven Development (TDD)** avec **RSpec**, et consiste à écrire du code pour faire passer des tests unitaires déjà fournis.
+
 Small exercices in Ruby -- RSpec 3 Edition
 ==========
 
